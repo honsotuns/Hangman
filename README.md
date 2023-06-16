@@ -1,8 +1,8 @@
 # Hangman game
 
-A simple Python program that allows a player to guess the alphabets of fruits
+A PYTHON PROGRAM THAT ALLOWS A PLAYER TO GUESS THE ALPHABETS OF FRUITS
 
- 1: Setting up the environment, Setting  up  GitHub repo.
+ 1: Setting up the environment, Setting  up  GitHub repository.
 
 
  2: Creating variables for the game
@@ -12,19 +12,19 @@ A simple Python program that allows a player to guess the alphabets of fruits
 
   * Choose a random word from the list using random.choice method
   * Asking the player for an input 
-  * Wrote codes to request input from the player, using input() function
+  * Codes to request input from the player, using input() function
 
   * Check that the input is a single character using "if" statement
-  * Creating an "if" statement that checks "if" the length of the input is equal to 1 and the input is an alphabet.
+  * Creating an "if" statement that checks "if" the length of the input is equal to 1 and the input is an alphabet
   * In the body of the "if" statement, print a message that says "Good guess!" If the player guessed the right alphabet
   
 
 3: Check if the guessed character is in the word
 
-  * Iteratively check if the guessed character is in the word_list using "while" loop
+  * Iteratively check if the guessed character is in the word_list
   * Creating functions to run the checks
   * Converting the word guess to lower case
-  * Creating an "else" block that prints "Oops! That is not a valid input." if the preceeding conditions are not met /  If the player enters alphabet that is not in the fruit
+  * Creating an "else" block that prints "Oops! That is not a valid input." if the preceeding conditions are not met /  If the player enters alphabet that is not in the guess word
   
   
 
