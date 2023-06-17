@@ -67,6 +67,6 @@ A PYTHON PROGRAM THAT ALLOWS A PLAYER TO GUESS THE ALPHABETS OF FRUITS
 
     * Passed  num_lives as argument to the game object
     * Called the play_game function
-       * To run: python Hangman_project.py 
+ * To run: python Hangman_project.py 
 
 
