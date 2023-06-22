@@ -1,5 +1,8 @@
 # Hangman game
 Hangman project, which implements a version of the classic Hangman game, using the principles of object oriented programming in Python.
+* Built an implementation of the Hangman game in Python.
+* Handled errors in user input and built the conditional logic to run the game. 
+* Used OOP principles including encapsulation and abstraction.
 
 
 
