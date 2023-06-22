@@ -1,6 +1,8 @@
 # Hangman game
+Hangman project, which implements a version of the classic Hangman game, using the principles of object oriented programming in Python.
 
-A PYTHON PROGRAM THAT ALLOWS A PLAYER TO GUESS THE ALPHABETS OF FRUITS
+
+
 
  1: Setting up the environment, Setting  up  GitHub repository.
 
